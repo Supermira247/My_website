@@ -5,5 +5,9 @@ p {
     font-size: 14;
 }
 body {
-    background-color: #ffffeb;
+    background-color: #ffffd7;
+}
+li {
+    color: #262626;
+    font-size: 14;
 }
