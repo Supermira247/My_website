@@ -19,3 +19,6 @@ li {
 .roboto {
     font-family: 'Roboto', sans-serif;
 }
+img, ul, li {
+    text-align: center;
+}
