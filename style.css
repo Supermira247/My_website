@@ -20,5 +20,6 @@ li {
     font-family: 'Roboto', sans-serif;
 }
 img, ul, li {
+    align-content: center;
     text-align: center;
 }
