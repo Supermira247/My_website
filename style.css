@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Martel&family=Roboto&display=swap');
 p, h1, h2, h3 {
     color: #262626;
 }
@@ -10,4 +11,10 @@ body {
 li {
     color: #262626;
     font-size: 14;
+}
+.martel {
+    font-family: 'Martel', serif;
+}
+.roboto {
+    font-family: 'Roboto', sans-serif;
 }
