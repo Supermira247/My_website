@@ -10,9 +10,10 @@ body {
     background-color: #ffffdf;
     text-align: center;
 }
-li {
+li, ul {
     color: #262626;
     font-size: 14;
+    text-align: center;
 }
 .martel {
     font-family: 'Martel', serif;
