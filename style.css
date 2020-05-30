@@ -22,3 +22,21 @@ li {
 li, ul {
     text-align: left;
 }
+a { /*default state*/
+ 
+}
+a:link {
+
+}
+a:visited {
+
+}
+a:focus {
+
+}
+a:hover {
+
+}
+a:active {
+
+}
