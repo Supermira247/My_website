@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Martel&family=Roboto&display=swap');
 p, h1, h2, h3 {
     color: #262626;
-    text-align: left;
+    text-align: center;
 }
 p {
     font-size: 14;
@@ -40,7 +40,4 @@ a:hover {
 }
 a:active {
     color: deepskyblue;
-}
-.footer {
-    color: #262626;
 }
