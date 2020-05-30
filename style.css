@@ -8,6 +8,7 @@ p {
 }
 body {
     background-color: #ffffdf;
+    text-align: center;
 }
 li {
     color: #262626;
@@ -35,8 +36,8 @@ a:focus {
     color: currentColor;
 }
 a:hover {
-
+    color: currentColor;
 }
 a:active {
-
+    color: deepskyblue;
 }
