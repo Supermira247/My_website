@@ -23,16 +23,16 @@ li, ul {
     text-align: left;
 }
 a { /*default state*/
- 
+    color: blue;
 }
 a:link {
-
+    color: blue;
 }
 a:visited {
-
+    color: blue;
 }
 a:focus {
-
+    color: currentColor;
 }
 a:hover {
 
